@@ -3,3 +3,6 @@ code_samples/
 */.ipynb_checkpoints/
 notebooks/draft/
 .vscode/
+venv/
+.pytest_cache/
+.DS_Store
